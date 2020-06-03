@@ -11,4 +11,4 @@ The player has to avoid enemies moving around the labyrinth randomly.
 In case the player meets an enemy, he/she will die and be respawned.
 
 
-The simulation includes player and enemy movement through the labyrinth and is terminated by the player winning the game.
+The simulation includes player and enemy movement throughout the labyrinth and is terminated by the player winning the game.
